@@ -1,4 +1,4 @@
-* [ ] Vind Irena en breng haar in veiligheid.
+* [x] Vind Irena en breng haar in veiligheid. Irena is gevonden en vrijgelaten in Izek's Hide Out. Vasili en Irena zijn spontaan verdwenen.
 * [ ] Wees aanwezig als speciale gasten van de baron tijdens het festival van de blazing sun.
 	* [ ] Pynt moet een act voorbereiden en geven.
 * [x] Spreek Urwin Martikov (eigenaar van de Inn) over het festival.
@@ -9,4 +9,4 @@
 * [x] Verstoor het heksenritueel voor Rictavio. Vertrekken uit de noorderpoort en dan 30 minuten naar het westen reizen. In een bocht naar rechts. Het ritueel is verstoord en de monsters zijn verslagen.
 * [ ] Actie bij het monster dat in de wagen van Rictavio zit.
 * [ ] Vraag Rictavio over Morganta als hij ons beter vertrouwd.
-* [ ] Ga met Vasili naar Izek's Hide Out en zoek Irena.
+* [x] Ga met Vasili naar Izek's Hide Out en zoek Irena.

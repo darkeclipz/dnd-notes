@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "curse-of-strahd/Journal/12-11-2022.md",
+                "file": "curse-of-strahd/Quest log.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1bbdb505c3d54af5",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "curse-of-strahd/Journal/12-11-2022.md",
+                "file": "curse-of-strahd/Quest log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "curse-of-strahd/Journal/12-11-2022.md",
+                "file": "curse-of-strahd/Quest log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "curse-of-strahd/Journal/12-11-2022.md"
+                "file": "curse-of-strahd/Quest log.md"
               }
             }
           }
@@ -149,10 +148,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "951c6162a64998e1",
+  "active": "d81624e38f6cf9fd",
   "lastOpenFiles": [
-    "curse-of-strahd/Quest log.md",
     "curse-of-strahd/Journal/12-11-2022.md",
+    "curse-of-strahd/Quest log.md",
     "curse-of-strahd/Aangepaste regels.md",
     "curse-of-strahd/Locaties/Valaki.md",
     "curse-of-strahd/Karakters.md",
