@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "9a5010c0427442f8",
+    "type": "split",
+    "children": [
+      {
+        "id": "29d90983d2253e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d81624e38f6cf9fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "curse-of-strahd/Journal/12-11-2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbbeb396273af2d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "curse-of-strahd/Quest log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7ed7355ba3691c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d362c72b0e828d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "951c6162a64998e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "237cc72a1195cc40",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aa72d97e0b11ec6a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1bbdb505c3d54af5",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f017eb0e676d419",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9734a90e768f6967",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "curse-of-strahd/Journal/12-11-2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7990cfb6a705baa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "curse-of-strahd/Journal/12-11-2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a5030bd92d25894",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "88b886f1e9797db5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "curse-of-strahd/Journal/12-11-2022.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "951c6162a64998e1",
+  "lastOpenFiles": [
+    "curse-of-strahd/Quest log.md",
+    "curse-of-strahd/Journal/12-11-2022.md",
+    "curse-of-strahd/Aangepaste regels.md",
+    "curse-of-strahd/Locaties/Valaki.md",
+    "curse-of-strahd/Karakters.md",
+    "README.md",
+    "Pasted image 20221112162015.png"
+  ]
+}
