@@ -9,4 +9,13 @@
 * [x] Verstoor het heksenritueel voor Rictavio. Vertrekken uit de noorderpoort en dan 30 minuten naar het westen reizen. In een bocht naar rechts. Het ritueel is verstoord en de monsters zijn verslagen.
 * [ ] Actie bij het monster dat in de wagen van Rictavio zit.
 * [ ] Vraag Rictavio over Morganta als hij ons beter vertrouwd.
+	* [ ] Na het festival wil hij het er over hebben.
 * [x] Ga met Vasili naar Izek's Hide Out en zoek Irena.
+* [ ] Op de zolder van de Baron komen er soms 's avonds paarse lichtflitsen. Dit moeten we nog onderzoeken.
+* [ ] De wijnproductie van Barovia staat stil omdat er twee magische zaden zijn gestolen.
+	* [ ] Vind het magische zaad van de wijnerij in Wester Hill.
+	* [ ] Vind het magische zaad van de wijnerij in Beres.
+* [ ] Op het pad tussen Valaki en de Wizard of the Winery hebben we twee vaten wijn begraven. Deze vaten moeten we nog ophalen.
+* [ ] Op de weg vanuit Valaki richting het oosten, waar de weg ver naar rechts buigt en dan weer naar het oosten. Daar in de bossen vind je de ingang naar een grot. Ergens in die grot  ligt het armor van Urwin (Tavern in Valaki). Hij heeft 25 gold pieces vooruit betaald en we krijgen de andere 25 gold pieces als we zijn armor terug brengen.
+* [ ] Na het festival moeten we met Izek praten. Hij heeft meer informatie over haar.
+* [ ] Boven bij de baron in Valaki zit iemand in de achterste kamer opgesloten.
