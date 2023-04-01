@@ -11,9 +11,11 @@
             "id": "9a4368312c4dfe35",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "curse-of-strahd/Journal/20230401.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1bbdb505c3d54af5",
@@ -96,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "curse-of-strahd/Journal/20230401.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "curse-of-strahd/Journal/20230401.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "curse-of-strahd/Journal/20230401.md"
+              }
             }
           }
         ]
@@ -155,16 +162,18 @@
   },
   "active": "9a4368312c4dfe35",
   "lastOpenFiles": [
-    "curse-of-strahd/Journal/20230301.md",
-    "curse-of-strahd/Journal/20230401.md",
-    "curse-of-strahd/Journal/20230218.md",
-    "curse-of-strahd/Karakters.md",
+    "Pasted image 20230401234352.png",
     "curse-of-strahd/Quest log.md",
+    "curse-of-strahd/Journal/20230401.md",
+    "Pasted image 20230401191108.png",
+    "curse-of-strahd/Journal/20230301.md",
+    "sessies/12-11-2022.pdf",
     "curse-of-strahd/Aangepaste regels.md",
     "curse-of-strahd/Locaties/Valaki.md",
+    "curse-of-strahd/Journal/20230218.md",
+    "curse-of-strahd/Karakters.md",
     "curse-of-strahd/Journal/20230108.md",
     "curse-of-strahd/Journal/20221112.md",
-    "curse-of-strahd/Journal/20221203.md",
-    "sessies/12-11-2022.pdf"
+    "curse-of-strahd/Journal/20221203.md"
   ]
 }
