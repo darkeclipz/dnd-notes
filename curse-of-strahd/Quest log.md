@@ -19,3 +19,7 @@
 * [ ] Op de weg vanuit Valaki richting het oosten, waar de weg ver naar rechts buigt en dan weer naar het oosten. Daar in de bossen vind je de ingang naar een grot. Ergens in die grot  ligt het armor van Urwin (Tavern in Valaki). Hij heeft 25 gold pieces vooruit betaald en we krijgen de andere 25 gold pieces als we zijn armor terug brengen.
 * [ ] Na het festival moeten we met Izek praten. Hij heeft meer informatie over haar.
 * [ ] Boven bij de baron in Valaki zit iemand in de achterste kamer opgesloten.
+* [ ] Op de zolder bij de Baron zijn in de nacht soms paarse lichtflitsen te zien. Er zit in luik met een touwtje in slaapkamer van de Baron.
+* [ ] De baron heeft een hele grote bibliotheek met boeken. Deze moeten we nog doorzoeken.
+* [ ] Een van de bruien van Strahd is bezig om een dode draak tot leven te wekken. Dit is bij de waterval van Tserpoel, dit is bij een brug tussen Barovia en Valaki. Het zit in een grot. De Festani weten hier meer van en die zitten bij Tsjerpoel.
+* [ ] 
