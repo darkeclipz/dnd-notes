@@ -13,7 +13,8 @@
 * [x] Ga met Vasili naar Izek's Hide Out en zoek Irena.
 * [x] Op de zolder van de Baron komen er soms 's avonds paarse lichtflitsen. Dit moeten we nog onderzoeken. (Dubbel)
 * [ ] De wijnproductie van Barovia staat stil omdat er twee magische zaden zijn gestolen.
-	* [ ] Vind het magische zaad van de wijnerij in Yester Hill.
+	* [x] Vind het magische zaad van de wijnerij in Yester Hill.
+		* [x] Het magische zaad is kaput.
 	* [ ] Vind het magische zaad van de wijnerij in Beres.
 * [ ] Op het pad tussen Valaki en de Wizard of the Winery hebben we twee vaten wijn begraven. Deze vaten moeten we nog ophalen.
 * [ ] Op de weg vanuit Valaki richting het oosten, waar de weg ver naar rechts buigt en dan weer naar het oosten. Daar in de bossen vind je de ingang naar een grot. Ergens in die grot  ligt het armor van Urwin (Tavern in Valaki). Hij heeft 25 gold pieces vooruit betaald en we krijgen de andere 25 gold pieces als we zijn armor terug brengen.

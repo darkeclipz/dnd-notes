@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10b148ec7180e5e3",
+        "id": "45d95a64aeec9630",
         "type": "tabs",
         "children": [
           {
-            "id": "8f8876562b1ce731",
+            "id": "40597411e5d21ce3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "curse-of-strahd/Journal/20230729.md",
+                "file": "curse-of-strahd/Journal/20231015.md",
                 "mode": "source",
                 "source": false
               }
@@ -54,7 +54,7 @@
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "curse-of-strahd/Journal/20230729.md",
+                "file": "curse-of-strahd/Journal/20231015.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "curse-of-strahd/Journal/20230729.md",
+                "file": "curse-of-strahd/Journal/20231015.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "curse-of-strahd/Journal/20230729.md"
+                "file": "curse-of-strahd/Journal/20231015.md"
               }
             }
           }
@@ -167,22 +167,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f8876562b1ce731",
+  "active": "40597411e5d21ce3",
   "lastOpenFiles": [
-    "curse-of-strahd/Journal/20230218.md",
-    "curse-of-strahd/Journal/20221112.md",
-    "curse-of-strahd/Journal/20230729.md",
-    "sessies/12-11-2022.pdf",
-    "curse-of-strahd/Karakters.md",
-    "curse-of-strahd/Journal/20230108.md",
     "curse-of-strahd/Quest log.md",
+    "curse-of-strahd/Journal/20231015.md",
+    "Pasted image 20231015214423.png",
+    "Pasted image 20231015200323.png",
+    "Pasted image 20231015195307.png",
+    "Pasted image 20231015192325.png",
+    "Pasted image 20231015190247.png",
+    "Pasted image 20231015183412.png",
+    "Pasted image 20231015183322.png",
+    "curse-of-strahd/Journal/20230729.md",
     "curse-of-strahd/Journal/20230429.md",
+    "sessies/12-11-2022.pdf",
+    "Pasted image 20231015161144.png",
+    "curse-of-strahd/Journal/20221112.md",
+    "curse-of-strahd/Efficient note taking.md",
+    "curse-of-strahd/Karakters.md",
+    "curse-of-strahd/Aangepaste regels.md",
+    "Pasted image 20231015152221.png",
+    "README.md",
+    "curse-of-strahd/Journal/20230218.md",
+    "curse-of-strahd/Journal/20230108.md",
     "curse-of-strahd/Journal/20230401.md",
     "curse-of-strahd/Journal/20230301.md",
     "curse-of-strahd/Locaties/Valaki.md",
-    "curse-of-strahd/Aangepaste regels.md",
     "Pasted image 20230401234352.png",
-    "Pasted image 20230401191108.png",
     "curse-of-strahd/Journal/20221203.md"
   ]
 }
